@@ -1,0 +1,7 @@
+Nadeem								
+S/No.	Website Name	Credit	Status	User Name	Password 	Assigned	Per Click	Bonus
+15	hits4surfers.com	AVG		apnakarachi880	pakistan	Assigned 60		
+23	sakura-traffic.com	??		apnakarachi880	pakistan			
+25	freetrafficworld.com	??		apnakarachi880	pakistan	assigned 0	per click .5	
+12	froggyhits.com	Good		apnakarachi880	pakistan	Assigned 50	per click .25	
+5	freehitxchange.com	Good		apnakarachi880	pakistan	assigned 30	per click .70	

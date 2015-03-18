@@ -1,0 +1,2 @@
+[03-Mar-2014 07:44:18] PHP Warning:  Invalid argument supplied for foreach() in /home6/questis1/public_html/teacherjobs/wp-content/themes/jobengine/includes/core/class-object.php on line 665
+[29-Dec-2014 06:46:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home6/questis1/public_html/teacherjobs/wp-content/themes/jobengine/includes/template.php on line 191
